@@ -4,8 +4,47 @@ body
   /* background image: linear-gradient(blue, puplple)  */
   /*background-image: radial-gradient(green, orange); */
 
-/*background-image: url("memeimage");
+/*background-image: url("26-amazing-anime-memes-for-fans-hyped-to-binge-a-whole-series-this-weekend.png");
  background_repeat: no-repeat;
  */
+}
 
- 
+selector{
+  property1:value1;
+
+  property2:value2;
+
+  property3:value3;
+
+}
+
+nav
+{
+  height: 6000px;
+  width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+
+footer
+{
+text-align: center;
+margin-right: 200px;
+}
+
+#memeimage
+{
+  margin-right: 200px;
+}
+
+header
+{
+  text-align: center;
+}
+
+
+
+
+
+
